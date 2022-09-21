@@ -1,5 +1,5 @@
 /common/
 /dataset/
 *.pkl
-Torch tutorial/data/*
+/Torch tutorial/data
 *.checkpoints
