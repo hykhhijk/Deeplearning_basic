@@ -1,3 +1,5 @@
 /common/
 /dataset/
-sample_weight.pkl
+*.pkl
+./Torch tutorial/data
+*.checkpoints
